@@ -34,7 +34,7 @@
   <blockquote>
 
   ```c++
-    //#include <ext/pb_ds/assoc_container.hpp>
+      //#include <ext/pb_ds/assoc_container.hpp>
       //#include <ext/pb_ds/tree_policy.hpp>
       //#include<bits/stdc++.h>
       #include <iomanip>
@@ -271,7 +271,7 @@
 
 
 
-<br><br><br>
+
 ## Binary Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup>
 <pre>
       - Binary Exponentiation
