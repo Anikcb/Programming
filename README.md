@@ -5,12 +5,61 @@
 </pre> 
 ## Problems - Solution
 
-<details>
-<summary></summary>
 
-- [[SUMMUL]](https://www.spoj.com/problems/SUMMUL/) - 
+
+<details>
+  <summary> SUMMUL - SPOJ </summary>
+
+  <blockquote>
+  
+
+  <details><summary> Problem Link </summary>
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/SUMMUL/
+  ```
+  
+  </blockquote>
+  </details>
+  
+        
+        
+<details>
+
+  <summary>Solutions </summary>
+  
+
+  <details><summary> Solution-1 </summary>
+  <blockquote>
+
+  ```c++
+    int whatIsLove() {
+      //Comment
+    }
+  ```
+  
+  </blockquote>
+  </details>
+        
+  <details><summary> Solution-2 </summary>
+  <blockquote>
+
+  ```c++
+    int whatIsLove() {
+      //Comment
+    }
+  ```
+  
+  </blockquote>
+  </details>
+  
+
+</details>   
 
 </details>
+
+
 
 <br><br><br>
 ## Binary Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup>
@@ -18,3 +67,5 @@
       - Binary Exponentiation
 </pre>
 ## Problems - Solution
+
+
