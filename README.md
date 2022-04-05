@@ -288,17 +288,10 @@
   <blockquote>
   
 
-  <details><summary> Problem Link </summary>
-  <blockquote>
-
   ```sh
   https://www.spoj.com/problems/LASTDIG/
   ```
-  
-  </blockquote>
-  </details>
-  
-        
+     
         
 <details>
 
@@ -359,24 +352,20 @@
   </details>
   </details>
 </details>
+       
+        
         
 <details>
   <summary> LOCKER - SPOJ </summary>
 
   <blockquote>
-  
-
-  <details><summary> Problem Link </summary>
-  <blockquote>
 
   ```sh
   https://www.spoj.com/problems/LOCKER/
   ```
-  
-  </blockquote>
-  </details>
 
   </details>
+ </blockquote>
 </details>
 
 
