@@ -270,7 +270,10 @@
 </details>
 
 
-
+        
+        
+        
+<h1 align="center">Number Theory</h1>
 
 ## Binary Exponentiation <sup>[[1]](https://cp-algorithms.com/algebra/binary-exp.html)</sup><sup>[[2]](https://cs.stackexchange.com/questions/77016/modular-multiplication)</sup>
 <pre>
