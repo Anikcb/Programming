@@ -1,4 +1,4 @@
-## Matrix Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup> <sup>[[2]](https://youtu.be/EEb6JP3NXBI)</sup>
+## Matrix Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup><sup>[[2]](https://youtu.be/EEb6JP3NXBI)</sup>
 <pre>
       - Solving the Fibonacci Sequence with Matrix Exponentiation[1]
       - What is Fast Exponentiation?[2]
@@ -277,8 +277,8 @@
 
 ## Binary Exponentiation <sup>[[1]](https://cp-algorithms.com/algebra/binary-exp.html)</sup><sup>[[2]](https://cs.stackexchange.com/questions/77016/modular-multiplication)</sup>
 <pre>
-      - Binary Exponentiation
-      - modular multiplication
+      - Binary Exponentiation[1]
+      - modular multiplication[2]
 </pre>
 ## Problems
 
