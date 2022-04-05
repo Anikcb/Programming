@@ -282,4 +282,79 @@
 </pre>
 ## Problems
 
+<details>
+  <summary> LASTDIG - SPOJ </summary>
+
+  <blockquote>
+  
+
+  <details><summary> Problem Link </summary>
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/LASTDIG/
+  ```
+  
+  </blockquote>
+  </details>
+  
+        
+        
+<details>
+
+  <summary>Solutions </summary>
+  
+
+  <details><summary> Solution-1 </summary>
+  <blockquote>
+
+  ```c++
+      #include<iostream>
+      using namespace std;
+
+
+      #define          ll     long long int
+      void FLASH() {ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);}
+
+
+      ll bigmod ( ll a, ll p, ll m )
+      {
+          ll res = 1;
+          ll x = a%m;
+          if(x==0)return 0;
+
+          while ( p )
+          {
+              if ( p & 1 )
+              {
+                  res = ( res * x ) % m;
+              }
+              x = ( x * x ) % m;
+              p = p >> 1;
+          }
+
+          return res;
+      }
+
+      int main()
+      {
+           FLASH();
+           ll t;
+           cin>>t;
+           while(t--)
+           {
+               ll a,b;
+               cin>>a>>b;
+               cout<<bigmod(a,b,10)<<endl;
+           }
+
+
+
+          return 0;
+      }
+
+  ```
+  
+  </blockquote>
+  </details>
 
