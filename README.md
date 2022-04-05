@@ -272,9 +272,10 @@
 
 
 
-## Binary Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup>
+## Binary Exponentiation <sup>[[1]](https://cp-algorithms.com/algebra/binary-exp.html)</sup><sup>[[2]](https://cs.stackexchange.com/questions/77016/modular-multiplication)</sup>
 <pre>
       - Binary Exponentiation
+      - modular multiplication
 </pre>
 ## Problems - Solution
 
