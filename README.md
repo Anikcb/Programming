@@ -302,7 +302,7 @@
         
 <details>
 
-  <summary>Solutions </summary>
+  <summary>Solutions</summary>
   
 
   <details><summary> Solution-1 </summary>
@@ -357,4 +357,26 @@
   
   </blockquote>
   </details>
+  </details>
+</details>
+        
+<details>
+  <summary> LOCKER - SPOJ </summary>
+
+  <blockquote>
+  
+
+  <details><summary> Problem Link </summary>
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/LOCKER/
+  ```
+  
+  </blockquote>
+  </details>
+
+  </details>
+</details>
+
 
