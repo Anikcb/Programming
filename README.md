@@ -3,7 +3,7 @@
       - Solving the Fibonacci Sequence with Matrix Exponentiation[1]
       - What is Fast Exponentiation?[2]
 </pre> 
-## Problems - Solution
+## Problems
 
 
 
@@ -280,6 +280,6 @@
       - Binary Exponentiation
       - modular multiplication
 </pre>
-## Problems - Solution
+## Problems
 
 
