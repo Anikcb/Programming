@@ -366,7 +366,7 @@
         
  <details>
 
-  <summary>Solutions</summary>
+  <summary>Solution</summary>
   
   <blockquote>
   
