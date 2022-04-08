@@ -489,5 +489,38 @@
       - Modular Multiplicative Inverse - Cp Algorithm[4]
 </pre> 
 ## Problems
+<details>
+  <summary> LOCKER - SPOJ </summary>
 
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/LOCKER/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://palak001.medium.com/spoj-locker-magic-of-the-locker-a758bccf432f
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
+        
+        
+
+        
+        
+        
+        
 
