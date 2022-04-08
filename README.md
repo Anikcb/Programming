@@ -530,12 +530,12 @@
 </pre> 
 ## Problems
 <details>
-  <summary> LOCKER - SPOJ </summary>
+  <summary> TDPRIMES - SPOJ </summary>
 
   <blockquote>
 
   ```sh
-  https://www.spoj.com/problems/LOCKER/
+  https://www.spoj.com/problems/TDPRIMES/
   ```
         
  <details>
@@ -545,7 +545,7 @@
   <blockquote>
   
   ```sh
-  https://palak001.medium.com/spoj-locker-magic-of-the-locker-a758bccf432f
+  https://ideone.com/k3Ykm0
   ```
   </blockquote>
   </details>      
