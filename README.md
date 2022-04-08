@@ -481,13 +481,12 @@
   </details>
 </details>      
       
-## Modular Inverse <sup>[[1]](https://forthright48.com/modular-multiplicative-inverse/?fbclid=IwAR0GqrqHtTnIuSGQ1ii8lqELD9f8mqc0tJPhpJM7L6ufe5IlpndQt6jHqYo)</sup><sup>[[2]](https://mukit09.com/2014/10/01/modular-multiplicative-inverse/)</sup><sup>[[3]](https://www.youtube.com/watch?v=mgvA3z-vOzc&t=61s&ab_channel=RandellHeyman)</sup><sup>[[4]](https://www.youtube.com/watch?v=shaQZg8bqUM&t=8s&ab_channel=LearnMathTutorials)</sup><sup>[[5]](https://cp-algorithms.com/algebra/module-inverse.html)</sup>
+## Modular Inverse <sup>[[1]](https://forthright48.com/modular-multiplicative-inverse/?fbclid=IwAR0GqrqHtTnIuSGQ1ii8lqELD9f8mqc0tJPhpJM7L6ufe5IlpndQt6jHqYo)</sup><sup>[[2]](https://www.youtube.com/watch?v=mgvA3z-vOzc&t=61s&ab_channel=RandellHeyman)</sup><sup>[[3]](https://www.youtube.com/watch?v=shaQZg8bqUM&t=8s&ab_channel=LearnMathTutorials)</sup><sup>[[4]](https://cp-algorithms.com/algebra/module-inverse.html)</sup>
 <pre>
       - Modular Multiplicative Inverse - forthright48[1]
-      - Modular Multiplicative Inverse - Mukit09[2]
-      - Modular inverse made easy[3]
-      - How To Find The Inverse of a Number[4]
-      - Modular Multiplicative Inverse - Cp Algorithm[5]
+      - Modular inverse made easy[2]
+      - How To Find The Inverse of a Number[3]
+      - Modular Multiplicative Inverse - Cp Algorithm[4]
 </pre> 
 ## Problems
 
