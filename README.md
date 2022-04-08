@@ -518,6 +518,46 @@
   </details>
         
         
+ 
+        
+        
+        
+        
+## Sieve of Eratosthenes<sup>[[1]](https://forthright48.com/sieve-of-eratosthenes-generating-primes/)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
+<pre>
+      - Sieve of Eratosthenes - forthright48[1]
+      - Sieve of Eratosthenes - Cp Algorithm[2]
+</pre> 
+## Problems
+<details>
+  <summary> LOCKER - SPOJ </summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/LOCKER/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://palak001.medium.com/spoj-locker-magic-of-the-locker-a758bccf432f
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
+        
+        
 
         
         
