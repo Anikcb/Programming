@@ -523,7 +523,7 @@
         
         
         
-## Sieve of Eratosthenes<sup>[[1]](https://forthright48.com/sieve-of-eratosthenes-generating-primes/)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
+## Sieve of Eratosthenes <sup>[[1]](https://forthright48.com/sieve-of-eratosthenes-generating-primes/)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
 <pre>
       - Sieve of Eratosthenes - forthright48[1]
       - Sieve of Eratosthenes - Cp Algorithm[2]
