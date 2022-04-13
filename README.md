@@ -558,6 +558,49 @@
   </details>
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+## Euclidean Algorithm <sup>[[1]](https://youtu.be/H_2_nqKAZ5w)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
+<pre>
+      - Euclidean Algorithm(Proof) - Youtube[1]
+      - Sieve of Eratosthenes - Cp Algorithm[2]
+</pre> 
+## Problems
+<details>
+  <summary> TDPRIMES - SPOJ </summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/TDPRIMES/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://ideone.com/k3Ykm0
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>        
+        
+        
 
         
         
