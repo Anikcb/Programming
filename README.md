@@ -566,19 +566,19 @@
         
         
         
-## Euclidean Algorithm <sup>[[1]](https://youtu.be/H_2_nqKAZ5w)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
+## Euclidean Algorithm <sup>[[1]](https://youtu.be/H_2_nqKAZ5w)</sup><sup>[[2]](https://www.freecodecamp.org/news/euclidian-gcd-algorithm-greatest-common-divisor/)</sup>
 <pre>
       - Euclidean Algorithm(Proof) - Youtube[1]
-      - Sieve of Eratosthenes - Cp Algorithm[2]
+      - Euclidian Algorithm - FreeCodeCamp[2]
 </pre> 
 ## Problems
 <details>
-  <summary> TDPRIMES - SPOJ </summary>
+  <summary>11827 - Maximum GCD </summary>
 
   <blockquote>
 
   ```sh
-  https://www.spoj.com/problems/TDPRIMES/
+  https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2927
   ```
         
  <details>
@@ -588,7 +588,7 @@
   <blockquote>
   
   ```sh
-  https://ideone.com/k3Ykm0
+  Solve it!!
   ```
   </blockquote>
   </details>      
