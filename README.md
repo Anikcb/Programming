@@ -606,4 +606,61 @@
         
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+## Extend Euclidean Algorithm <sup>[[1]](https://youtu.be/hB34-GSDT3k)</sup><sup>[[2]](https://www.youtube.com/watch?v=fz1vxq5ts5I&t=47s&ab_channel=EmilyS)</sup><sup>[[3]](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/)</sup><sup>[[4]](https://forthright48.com/extended-euclidean-algorithm/)</sup><sup>[[5]](https://forthright48.com/linear-diophantine-equation/)</sup><sup>[[6]](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)</sup><sup>[[7]](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)</sup>
+<pre>
+      - The Extended Euclidean algorithm - Youtube[1]
+      - Extended Euclidean Algorithm and Inverse Modulo - FreeCodeCamp[2]
+      - এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম - Return 0[3]
+      - Extended Euclidean Algorithm - forthright48[4]
+      - Linear Diophantine Equation  - forthright48[5]
+      - Extended Euclidean Algorithm - Cp Algorithm[6]
+      - Linear Diophantine Equation - Cp Algorithm[7]
+</pre> 
+## Problems
+<details>
+  <summary> Extended Euclidean Algorithm applications</summary>
+
+  <blockquote>
+
+  ```sh
+  https://codeforces.com/blog/entry/10575?locale=en
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  Solve them!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>         
+        
+        
+        
+        
+        
+        
+        
 
