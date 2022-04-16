@@ -673,7 +673,7 @@
 <pre>
       - Frobenius Coin Problem (Chicken McNugget Theorem) - Youtube[1]
       - Number System Concept 4 ( Chicken Mcnugget Theorem) - Youtube[2]
-      - Chicken McNugget Theorem - Mediam[3]
+      - Chicken McNugget Theorem - Medium[3]
 </pre> 
 ## Problems
 <details>
