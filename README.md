@@ -663,4 +663,48 @@
         
         
         
+        
+        
+        
+        
+        
+        
+## Chicken McNugget Theorem <sup>[[1]](https://www.youtube.com/watch?v=SLyVAR3JV5A)</sup><sup>[[2]](https://www.youtube.com/watch?v=VUKTtptZpQs&ab_channel=ELITESGRID-CATPREP)</sup><sup>[[3]](https://www.cantorsparadise.com/chicken-mcnugget-theorem-1df48d273a57)</sup>
+<pre>
+      - Frobenius Coin Problem (Chicken McNugget Theorem) - Youtube[1]
+      - Number System Concept 4 ( Chicken Mcnugget Theorem) - Youtube[2]
+      - Chicken McNugget Theorem - Mediam[3]
+</pre> 
+## Problems
+<details>
+  <summary>Get AC in one go - CodeChef</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.codechef.com/problems/COPR16G
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>        
+        
+                
+        
+        
 
