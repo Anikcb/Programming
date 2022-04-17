@@ -692,7 +692,7 @@
   <blockquote>
   
   ```sh
-  Solve it!!
+  https://www.codechef.com/viewsolution/63102204
   ```
   </blockquote>
   </details>      
