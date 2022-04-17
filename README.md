@@ -702,7 +702,61 @@
  </blockquote>
 </details>
 
-  </details>        
+  </details>  
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+## Binomial Coefficients <sup>[[1]](https://www.youtube.com/watch?v=o-ZtGGXLogE&ab_channel=CodeWhoop)</sup><sup>[[2]](https://cp-algorithms.com/combinatorics/binomial-coefficients.html)</sup>
+<pre>
+      - Binomial Coefficient using C++ - Youtube[1]
+      - Binomial Coefficients - Cp Algorithm[2]
+</pre> 
+## Problems
+<details>
+  <summary>Get AC in one go - CodeChef</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.codechef.com/problems/COPR16G
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://www.codechef.com/viewsolution/63102204
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>          
+        
+        
+        
+        
+        
+        
+        
         
                 
         
