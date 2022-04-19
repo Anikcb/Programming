@@ -1,19 +1,20 @@
 <h1 align="center">STL</h1>
 
 
-## Policy Based Data Structure(Ordered_Set) <sup>[[1]](https://youtu.be/M8BYckxI8_U)</sup><sup>[[2]](https://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/)</sup>
+## Policy Based Data Structure(Ordered_Set) <sup>[[1]](https://youtu.be/MiBrJTNOEP0)</sup><sup>[[2]](https://codeforces.com/blog/entry/11080)</sup><sup>[[3]](https://codeforces.com/blog/entry/13279)</sup>
 <pre>
-      - Art of Problem Solving: Counting Paths on a Grid - Youtube[1]
-      - Navigate a Grid Using Combinations And Permutations - Better Explained[2]
+      - Policy Based Data Structure (Bangla) - Youtube[1]
+      - C++ STL: Policy based data structures - Codeforces[2]
+      - C++ STL: Policy based data structures, Part 2 - Codeforces[3]
 </pre> 
 ## Problems
 <details>
-  <summary>Get AC in one go - CodeChef</summary>
+  <summary>Stars - Timus</summary>
 
   <blockquote>
 
   ```sh
-  https://www.codechef.com/problems/COPR16G
+  https://acm.timus.ru/problem.aspx?space=1&num=1028
   ```
         
  <details>
@@ -22,8 +23,21 @@
   
   <blockquote>
   
-  ```sh
-  https://www.codechef.com/viewsolution/63102204
+  ```c++
+  
+     ordered_set s;
+     ll n;
+     cin>>n;
+     for(ll i=1;i<=n;i++)
+     {
+         ll a,b;
+         cin>>a>>b;
+         s.insert(make_pair(a,b));
+         ll pos=s.order_of_key(make_pair(a,b));
+         A[pos]++;
+     }
+     for(ll i=0;i<n;i++)cout<<A[i]<<endl;
+        
   ```
   </blockquote>
   </details>      
