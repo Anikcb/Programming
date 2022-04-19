@@ -53,6 +53,45 @@
   
   
   
+      
+      
+      
+      
+      
+## Set, Unordered Set, Multiset <sup>[[1]](https://youtu.be/7mx2BasNK0w)</sup><sup>[[2]](https://youtu.be/xelzlR_OGnI)</sup><sup>[[3]](https://www.geeksforgeeks.org/multiset-in-cpp-stl/)</sup>
+<pre>
+      - SET, UNORDERED SET & MULTISET (Hindi) - Youtube[1]
+      - Multiset in C++ STL - Youtube[2]
+      - Multiset in C++ - GeeksforGeekss[3]
+</pre> 
+## Problems
+<details>
+  <summary>Mahesh and his lost array - CodeChef</summary>
+
+  <blockquote>
+
+  ```sh
+     https://www.codechef.com/problems/ANUMLA
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+      Solve it!! 
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>      
   
   
   
