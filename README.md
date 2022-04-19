@@ -1,3 +1,52 @@
+<h1 align="center">STL</h1>
+
+
+## Policy Based Data Structure(Ordered_Set) <sup>[[1]](https://youtu.be/M8BYckxI8_U)</sup><sup>[[2]](https://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/)</sup>
+<pre>
+      - Art of Problem Solving: Counting Paths on a Grid - Youtube[1]
+      - Navigate a Grid Using Combinations And Permutations - Better Explained[2]
+</pre> 
+## Problems
+<details>
+  <summary>Get AC in one go - CodeChef</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.codechef.com/problems/COPR16G
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://www.codechef.com/viewsolution/63102204
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
 ## Matrix Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup><sup>[[2]](https://youtu.be/EEb6JP3NXBI)</sup>
 <pre>
       - Solving the Fibonacci Sequence with Matrix Exponentiation[1]
