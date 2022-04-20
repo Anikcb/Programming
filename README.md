@@ -95,10 +95,65 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ## Priority Queue <sup>[[1]](https://youtu.be/JSqznrzWGvc)</sup><sup>[[2]](https://www.programiz.com/cpp-programming/priority-queue)</sup>
+<pre>
+      - std::priority_queue In C++ - Youtube[1]
+      - C++ Priority Queue - Programiz[2]
+</pre> 
+## Problems
+<details>
+  <summary>No Name</summary>
 
+  <blockquote>
 
+  ```sh
+     Priority Queue is very useful to solve Graph problems
+  ```
+        
+ <details>
 
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+      There is no solution right now!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
 
+  </details> 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+<h1 align="center">Math</h1>
 
 ## Matrix Exponentiation <sup>[[1]](https://youtu.be/EEb6JP3NXBI)</sup><sup>[[2]](https://youtu.be/EEb6JP3NXBI)</sup>
 <pre>
