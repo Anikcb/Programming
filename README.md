@@ -1006,6 +1006,34 @@
 </details>
 
   </details>
+      
+<details>
+  <summary>Good Predictions - SPOJ</summary>
+
+  <blockquote>
+
+  ```sh
+ https://www.spoj.com/problems/GOODB/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+       Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
         
         
         
