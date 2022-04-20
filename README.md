@@ -1037,9 +1037,42 @@
         
         
         
+<h1 align="center">Search</h1>     
         
+## Binary Search <sup>[[1]](https://youtu.be/6ysjqCUv3K4)</sup><sup>[[2]](http://www.shafaetsplanet.com/?p=2279)</sup><sup>[[3]](https://www.programiz.com/dsa/binary-search)</sup>
+<pre>
+      - Introduction to Binary Search - Youtube[1]
+      - বাইনারি সার্চ - Shafaet Blog[2]
+      - Binary Search - Programiz[3]
+</pre> 
+## Problems
+<details>
+  <summary>The Playboy Chimp - UVA</summary>
+
+  <blockquote>
+
+  ```sh
+  https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1552
+  ```
         
-        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+     Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>   
         
         
         
