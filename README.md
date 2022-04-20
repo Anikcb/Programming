@@ -934,12 +934,12 @@
 </pre> 
 ## Problems
 <details>
-  <summary>Get AC in one go - CodeChef</summary>
+  <summary>Combinations - LightOj</summary>
 
   <blockquote>
 
   ```sh
-  https://www.codechef.com/problems/COPR16G
+  https://lightoj.com/problem/combinations
   ```
         
  <details>
@@ -948,8 +948,54 @@
   
   <blockquote>
   
-  ```sh
-  https://www.codechef.com/viewsolution/63102204
+  ```c++
+      ll A[1000000];
+      map<ll,vector<ll> >ps;
+      void fact()
+      {
+          A[0]=A[1]=1;
+          for(ll i=2;i<=1e6+2;i++)
+          {
+              A[i]=((A[i-1]%MOD)*i)%MOD;
+          }
+      }
+
+      ll bigmod ( ll a, ll p, ll m )
+      {
+          ll res = 1;
+          ll x = a;
+
+          while ( p )
+          {
+              if ( p & 1 ) //p is odd
+              {
+                  res = ( res * x ) % m;
+              }
+              x = ( x * x ) % m;
+              p = p >> 1;
+          }
+
+          return res;
+      }
+
+      int main()
+      {
+           fact();
+           ll t;
+           cin>>t;
+           for(ll j=1;j<=t;j++)
+           {
+               ll n,r;
+               cin>>n>>r;
+               cout<<"Case "<<j<<": ";
+               ll a=((A[n-r]%MOD)*(A[r]%MOD))%MOD;
+               ll b=((A[n]%MOD)*(bigmod(a,MOD-2,MOD)))%MOD;
+               cout<<b<<endl;
+           }
+
+
+          return 0;
+      }
   ```
   </blockquote>
   </details>      
