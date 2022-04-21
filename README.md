@@ -1125,7 +1125,40 @@
         
         
         
+## Ternary Search <sup>[[1]](https://youtu.be/INa9L56heHE)</sup><sup>[[2]](https://eshafik.wordpress.com/2017/08/07/ternary-search/#more-161)</sup><sup>[[3]](https://cp-algorithms.com/num_methods/ternary_search.html)</sup>
+<pre>
+      - Searching an element in a sorted array (Ternary Search) - Youtube[1]
+      - Introduction to Ternary Search - Shafik's Blog[2]
+      - Ternary Search - Cp Algorithm[3]
+</pre> 
+## Problems
+<details>
+  <summary>Help Chokro - Toph</summary>
+
+  <blockquote>
+
+  ```sh
+  https://toph.co/p/help-chokro
+  ```
         
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+     Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>  
         
         
         
