@@ -1,6 +1,8 @@
 
-# How to Boost your Rating!!
-[![IMAGE ALT TEXT HERE](https://github.com/Anikcb/Programming/blob/main/Data/you_1.png?raw=true)](https://youtu.be/4Fbd59j_PRI)
+# How to Boost your Rating!!🔥🔥
+
+<!-- <p align="center"> <a href="https://youtu.be/4Fbd59j_PRI" target="blank"><img width="500" src="https://github.com/Anikcb/Programming/blob/main/Data/oct.gif?raw=true" alt="anik33122906" /></a> </p> -->
+<p align="right"> <a href="https://youtu.be/4Fbd59j_PRI" target="blank"><img width="400" src="https://github.com/Anikcb/Programming/blob/main/Data/oct.gif?raw=true" alt="anik33122906" /><img width="500" src="https://github.com/Anikcb/Programming/blob/main/Data/you_1.png?raw=true" alt="anik33122906" /></a> </p>
 
 
 
