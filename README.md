@@ -1076,6 +1076,57 @@
         
         
         
+ 
+        
+        
+        
+        
+        
+        
+        
+        
+## Fraction Binary Search <sup>[[1]](https://github.com/ShahjalalShohag/code-library/blob/master/Miscellaneous/Fraction%20Binary%20Search.cpp)</sup>
+<pre>
+      - Introduction to Fraction Binary Search - Github[1]
+</pre> 
+## Problems
+<details>
+  <summary>Conductors - Timus</summary>
+
+  <blockquote>
+
+  ```sh
+  https://acm.timus.ru/problem.aspx?space=1&num=1011
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+     Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details> 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
