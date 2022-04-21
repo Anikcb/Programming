@@ -1,5 +1,6 @@
 
-[![IMAGE ALT TEXT HERE](https://github.com/Anikcb/Programming/blob/main/Data/you1.png?raw=true)](https://youtu.be/4Fbd59j_PRI)
+# How to Boost your Rating!!
+[![IMAGE ALT TEXT HERE](https://github.com/Anikcb/Programming/blob/main/Data/you_1.png?raw=true)](https://youtu.be/4Fbd59j_PRI)
 
 
 
