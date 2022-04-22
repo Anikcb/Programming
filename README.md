@@ -1086,6 +1086,23 @@
         
         
         
+   
+        
+        
+        
+<h1 align="center">Theory & Function & Principle</h1> 
+        
+        
+## Pigeonhole principle
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
