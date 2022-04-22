@@ -5,6 +5,23 @@
 
 
 
+
+
+# Useful links
+```sh
+      https://www.youtube.com/channel/UCN_pqF_Y6IObpxapaQPHWZg
+```
+```sh
+      https://blog.shahjalalshohag.com/topic-list/
+```
+```sh
+      https://forthright48.com/p-cpps-101/
+```
+
+
+
+
+</br></br>
 <h1 align="center">STL</h1>
 
 
