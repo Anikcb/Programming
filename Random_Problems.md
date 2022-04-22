@@ -1,4 +1,6 @@
-1. [Race Time!](https://www.codechef.com/problems/AMCS03)
+1. [Race Time!](https://www.codechef.com/problems/AMCS03)<p><a href="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Easy%F0%9F%92%99/vote"><img width="320" src="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Easy%F0%9F%92%99" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Medium%F0%9F%92%97/vote"><img width="320" src="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Medium%F0%9F%92%97" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Hard%F0%9F%92%96/vote"><img width="320" src="https://api.gh-polls.com/poll/01G18XNVZYHQFTMTPCAP8EMYE3/Hard%F0%9F%92%96" alt=""></a></p>
 2. [Gift Dilemma](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4628)
 3. [Anton and School 2](http://codeforces.com/contest/785/problem/D)
 4. [KOPC12A - K12 - Building Construction](https://www.spoj.com/problems/KOPC12A/)
