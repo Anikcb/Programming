@@ -14,7 +14,7 @@
       - C++ STL: Policy based data structures - Codeforces[2]
       - C++ STL: Policy based data structures, Part 2 - Codeforces[3]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Stars - Timus</summary>
 
@@ -71,7 +71,7 @@
       - Multiset in C++ STL - Youtube[2]
       - Multiset in C++ - GeeksforGeekss[3]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Mahesh and his lost array - CodeChef</summary>
 
@@ -116,7 +116,7 @@
       - std::priority_queue In C++ - Youtube[1]
       - C++ Priority Queue - Programiz[2]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>No Name</summary>
 
@@ -167,7 +167,7 @@
       - Solving the Fibonacci Sequence with Matrix Exponentiation[1]
       - What is Fast Exponentiation?[2]
 </pre> 
-## Problems
+### Problems
 
 
 
@@ -444,7 +444,7 @@
       - Binary Exponentiation[1]
       - modular multiplication[2]
 </pre>
-## Problems
+### Problems
 
 <details>
   <summary> LASTDIG - SPOJ </summary>
@@ -652,7 +652,7 @@
       - How To Find The Inverse of a Number[3]
       - Modular Multiplicative Inverse - Cp Algorithm[4]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary> LOCKER - SPOJ </summary>
 
@@ -692,7 +692,7 @@
       - Sieve of Eratosthenes - forthright48[1]
       - Sieve of Eratosthenes - Cp Algorithm[2]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary> TDPRIMES - SPOJ </summary>
 
@@ -735,7 +735,7 @@
       - Euclidean Algorithm(Proof) - Youtube[1]
       - Euclidian Algorithm - FreeCodeCamp[2]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>11827 - Maximum GCD </summary>
 
@@ -792,7 +792,7 @@
       - Extended Euclidean Algorithm - Cp Algorithm[6]
       - Linear Diophantine Equation - Cp Algorithm[7]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary> Extended Euclidean Algorithm applications</summary>
 
@@ -839,7 +839,7 @@
       - Number System Concept 4 ( Chicken Mcnugget Theorem) - Youtube[2]
       - Chicken McNugget Theorem - Medium[3]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Get AC in one go - CodeChef</summary>
 
@@ -886,7 +886,7 @@
       - Binomial Coefficient using C++ - Youtube[1]
       - Binomial Coefficients - Cp Algorithm[2]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Get AC in one go - CodeChef</summary>
 
@@ -939,7 +939,7 @@
       - The Birthday Problem[9]
       - Medium Math[10]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Combinations - LightOj</summary>
 
@@ -1048,7 +1048,38 @@
 ## Star Bars Theorem
 ## Catalan Numbers
 ## Pascal's Triangle properties
+## Stirling Number <sup>[[1]](https://youtu.be/yQCIAiA288s)</sup>
+<pre>
+      - What is Stirling Number of First Kind - Youtube[1]
+</pre> 
+### Problems
+<details>
+  <summary>No Name</summary>
+
+  <blockquote>
+
+  ```sh
+  No link!!
+  ```
         
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+     Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
         
         
         
@@ -1071,7 +1102,7 @@
       - বাইনারি সার্চ - Shafaet Blog[2]
       - Binary Search - Programiz[3]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>The Playboy Chimp - UVA</summary>
 
@@ -1115,7 +1146,7 @@
 <pre>
       - Introduction to Fraction Binary Search - Github[1]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Conductors - Timus</summary>
 
@@ -1157,7 +1188,7 @@
       - Introduction to Ternary Search - Shafik's Blog[2]
       - Ternary Search - Cp Algorithm[3]
 </pre> 
-## Problems
+### Problems
 <details>
   <summary>Help Chokro - Toph</summary>
 
