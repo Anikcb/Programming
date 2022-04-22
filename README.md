@@ -922,7 +922,7 @@
         
        
         
-        
+<h1 align="center">Combinactorics & Probability</h1>    
         
         
                 
@@ -1041,6 +1041,25 @@
 </details>
 
   </details>
+        
+        
+        
+        
+## Star Bars Theorem
+## Catalan Numbers
+## Pascal's Triangle properties
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
