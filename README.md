@@ -1048,6 +1048,7 @@
         
 ## Star Bars Theorem
 ## Bell Numbers
+## The Coupon Collector's Problem
 ## Catalan Numbers
 ## Pascal's Triangle properties
 ## Stirling Number <sup>[[1]](https://youtu.be/yQCIAiA288s)</sup>
