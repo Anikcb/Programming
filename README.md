@@ -926,7 +926,7 @@
         
         
                 
-## Combinactorics <sup>[[1]](https://youtu.be/M8BYckxI8_U)</sup><sup>[[2]](https://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/)</sup><sup>[[3]](https://www.handakafunda.com/problems-on-grids-paths-and-chessboards-for-cat-exam/)</sup><sup>[[4]](https://youtu.be/mAvGUFlAJwQ)</sup><sup>[[5]](https://youtu.be/FuPM7OhGda0)</sup><sup>[[6]](https://www.topcoder.com/thrive/articles/Basics%20of%20Combinatorics)</sup><sup>[[7]](https://forthright48.com/prufer-code-linear-representation-of-a-labeled-tree/)</sup><sup>[[8]](https://forthright48.com/application-of-prufer-code-random-tree-generation-cayleys-formula-and-building-tree-from-degree-count/)</sup><sup>[[9]](https://medium.com/i-math/the-birthday-problem-307f31a9ac6f)</sup><sup>[[10]](https://medium.com/i-math)</sup>
+## Combinactorics <sup>[[1]](https://youtu.be/M8BYckxI8_U)</sup><sup>[[2]](https://betterexplained.com/articles/navigate-a-grid-using-combinations-and-permutations/)</sup><sup>[[3]](https://www.handakafunda.com/problems-on-grids-paths-and-chessboards-for-cat-exam/)</sup><sup>[[4]](https://youtu.be/mAvGUFlAJwQ)</sup><sup>[[5]](https://youtu.be/FuPM7OhGda0)</sup><sup>[[6]](https://www.topcoder.com/thrive/articles/Basics%20of%20Combinatorics)</sup><sup>[[7]](https://forthright48.com/prufer-code-linear-representation-of-a-labeled-tree/)</sup><sup>[[8]](https://forthright48.com/application-of-prufer-code-random-tree-generation-cayleys-formula-and-building-tree-from-degree-count/)</sup><sup>[[9]](https://medium.com/i-math/the-birthday-problem-307f31a9ac6f)</sup><sup>[[10]](https://medium.com/i-math)</sup><sup>[[11]](https://youtu.be/9vRUxbzJZ9Y)</sup>
 <pre>
       - Art of Problem Solving: Counting Paths on a Grid - Youtube[1]
       - Navigate a Grid Using Combinations And Permutations - Better Explained[2]
@@ -938,6 +938,7 @@
       - Application of Prufer Code: Random Tree Generation, Cayley’s Formula and Building Tree from Degree Count[8]
       - The Birthday Problem[9]
       - Medium Math[10]
+      - The Monty Hall Problem[11]
 </pre> 
 ### Problems
 <details>
