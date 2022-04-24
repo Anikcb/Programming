@@ -1275,7 +1275,26 @@
         
         
         
+<h1 align="center">Dynamic Programming</h1>     
         
+        
+## Basic DP
+        
+```sh
+     https://www.codechef.com/certification/data-structures-and-algorithms/prepare#foundation   
+```
+        
+```sh
+     https://www.youtube.com/watch?v=OQ5jsbhAv_M&list=PLcDimPvbmfT8qAxD6JH_kmXiQwTNcoK78  
+```
+        
+```sh
+    https://codeforces.com/blog/entry/67679    
+```
+        
+ ```sh
+   https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go     
+```
         
         
         
