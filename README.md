@@ -1322,7 +1322,32 @@
         
         
         
+### Basic DP Problems
+<details>
+  <summary>Help Chokro - Toph</summary>
+
+  <blockquote>
+
+  ```sh
+      https://toph.co/p/help-chokro
+  ```
         
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+     Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>     
         
         
         
