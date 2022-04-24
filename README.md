@@ -1351,6 +1351,36 @@
         
         
         
+    
+        
+        
+        
+        
+        
+        
+        
+<h1 align="center">String</h1>
+        
+## KMP(Knuth Morris Pratt) Pattern Searching
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
