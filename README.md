@@ -1369,12 +1369,12 @@
 </pre> 
 ### Problems
 <details>
-  <summary>Help Chokro - Toph</summary>
+  <summary>Substring Frequency - LighOj</summary>
 
   <blockquote>
 
   ```sh
-  https://toph.co/p/help-chokro
+  https://lightoj.com/problem/substring-frequency
   ```
         
  <details>
