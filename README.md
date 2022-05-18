@@ -75,7 +75,7 @@
  </blockquote>
 </details>
 
-  </details>
+  </details><br>  
   
   
   
@@ -119,7 +119,7 @@
  </blockquote>
 </details>
 
-  </details>      
+  </details><br>        
   
   
   
@@ -164,7 +164,7 @@
  </blockquote>
 </details>
 
-  </details> 
+  </details><br><br>   
   
   
   
@@ -452,7 +452,7 @@
 
 </details>   
 
-</details>
+</details><br><br>  
 
 
         
@@ -664,7 +664,7 @@
   </blockquote>
   </details>
   </details>
-</details>      
+</details><br>      
       
 ## Modular Inverse <sup>[[1]](https://forthright48.com/modular-multiplicative-inverse/?fbclid=IwAR0GqrqHtTnIuSGQ1ii8lqELD9f8mqc0tJPhpJM7L6ufe5IlpndQt6jHqYo)</sup><sup>[[2]](https://www.youtube.com/watch?v=mgvA3z-vOzc&t=61s&ab_channel=RandellHeyman)</sup><sup>[[3]](https://www.youtube.com/watch?v=shaQZg8bqUM&t=8s&ab_channel=LearnMathTutorials)</sup><sup>[[4]](https://cp-algorithms.com/algebra/module-inverse.html)</sup>
 <pre>
@@ -700,7 +700,7 @@
  </blockquote>
 </details>
 
-  </details>
+  </details><br>  
         
         
  
@@ -740,7 +740,7 @@
  </blockquote>
 </details>
 
-  </details>
+  </details><br>  
         
         
         
@@ -783,7 +783,7 @@
  </blockquote>
 </details>
 
-  </details>        
+  </details><br>          
         
         
 
@@ -840,7 +840,7 @@
  </blockquote>
 </details>
 
-  </details>         
+  </details><br>           
         
         
         
@@ -887,7 +887,7 @@
  </blockquote>
 </details>
 
-  </details>  
+  </details>  <br>  
         
         
         
@@ -934,7 +934,47 @@
  </blockquote>
 </details>
 
-  </details>          
+  </details><br>   
+        
+        
+        
+        
+        
+        
+        
+## Sieve of Eratosthenes <sup>[[1]](https://forthright48.com/sieve-of-eratosthenes-generating-primes/)</sup><sup>[[2]](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)</sup>
+<pre>
+      - Sieve of Eratosthenes – Generating Primes - forthright48[1]
+      - Binomial Coefficients - Cp Algorithm[2]
+</pre> 
+### Problems
+<details>
+  <summary>Get AC in one go - CodeChef</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.codechef.com/problems/COPR16G
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://www.codechef.com/viewsolution/63102204
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details><br><br>   
         
         
         
@@ -1062,7 +1102,7 @@
  </blockquote>
 </details>
 
-  </details>
+  </details><br>
         
         
         
@@ -1103,7 +1143,7 @@
  </blockquote>
 </details>
 
-  </details>
+  </details><br><br>
         
         
         
@@ -1170,7 +1210,7 @@
  </blockquote>
 </details>
 
-  </details>   
+  </details><br>   
         
         
         
@@ -1214,7 +1254,7 @@
  </blockquote>
 </details>
 
-  </details> 
+  </details><br> 
         
         
         
@@ -1256,7 +1296,7 @@
  </blockquote>
 </details>
 
-  </details>  
+  </details><br>  
         
         
         
@@ -1347,7 +1387,7 @@
       
       
  </blockquote>
-</details>     
+</details><br>     
         
         
         
@@ -1394,7 +1434,7 @@
  </blockquote>
 </details>
 
-  </details>          
+  </details><br>          
         
         
         
