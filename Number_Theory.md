@@ -518,3 +518,50 @@
 
   </details><br><br>   
         
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+## Inclusion Exclution <sup>[[1]]()</sup><sup>[[2]]()</sup><sup>[[3]]()</sup>
+<pre>
+      - Sieve of Eratosthenes, Generating Primes - forthright48[1]
+      - Binomial Coefficients - Cp Algorithm[2]
+      - Segmented Sieve of Eratosthenes - forthright48[3]
+</pre> 
+### Problems
+<details>
+  <summary>Extreme GCD - LightOj</summary>
+
+  <blockquote>
+
+  ```sh
+  [https://www.codechef.com/problems/COPR16G](https://lightoj.com/problem/extreme-gcd)
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://github.com/Anikcb/LightOj_Practice/blob/main/Codes/Extreme%20GCD.cpp
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details><br><br>   
+        
+
