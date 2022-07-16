@@ -116,14 +116,73 @@
  </blockquote>
 </details>
 
-  </details><br><br>   
+  </details>
+  
+  
+  
+  
+  
+  
+  <details>
+  <summary>Blueberries - SPOJ</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/RPLB/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://github.com/Anikcb/Spoj_practice/blob/main/Solutions/RPLB%20-%20Blueberries.cpp
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
         
 
     
         
         
         
+<details>
+  <summary>Large Knapsack - SPOJ</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/LKS/
+  ```
         
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://github.com/Anikcb/Spoj_practice/blob/main/Solutions/Large%20Knapsack.cpp
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details><br><br>
         
         
         
