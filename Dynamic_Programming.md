@@ -70,6 +70,68 @@
         
         
         
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+## Knapsack <sup>[[1]]()</sup><sup>[[2]]()</sup><sup>[[3]]()</sup>
+<pre>
+      - Sieve of Eratosthenes, Generating Primes - forthright48[1]
+      - Binomial Coefficients - Cp Algorithm[2]
+      - Segmented Sieve of Eratosthenes - forthright48[3]
+</pre> 
+### Problems
+<details>
+  <summary>KNAPSACK - SPOJ</summary>
+
+  <blockquote>
+
+  ```sh
+  https://www.spoj.com/problems/KNAPSACK/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://github.com/Anikcb/Spoj_practice/blob/main/Solutions/KNAPSACK.cpp
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details><br><br>   
+        
+
+    
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     
         
         
