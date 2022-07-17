@@ -191,6 +191,91 @@
         
         
         
+        
+        
+        
+        
+        
+        
+## (Knapsack) -> Subset Sum <sup>[[1]]()</sup><sup>[[2]]()</sup><sup>[[3]]()</sup>
+<pre>
+      - Sieve of Eratosthenes, Generating Primes - forthright48[1]
+      - Binomial Coefficients - Cp Algorithm[2]
+      - Segmented Sieve of Eratosthenes - forthright48[3]
+</pre> 
+### Problems
+<details>
+  <summary>Partition Equal Subset Sum - LeetCode</summary>
+
+  <blockquote>
+
+  ```sh
+  https://leetcode.com/problems/partition-equal-subset-sum/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  https://github.com/Anikcb/LeetCode_Practice/blob/main/Solutions/Partition%20Equal%20Subset%20Sum.cpp
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
+  
+  
+  
+  
+  
+  
+  <details>
+  <summary>Subsets II - LeetCode</summary>
+
+  <blockquote>
+
+  ```sh
+  https://leetcode.com/problems/subsets-ii/
+  ```
+        
+ <details>
+
+  <summary>Solution</summary>
+  
+  <blockquote>
+  
+  ```sh
+  Solve it!!
+  ```
+  </blockquote>
+  </details>      
+      
+      
+      
+ </blockquote>
+</details>
+
+  </details>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     
         
         
